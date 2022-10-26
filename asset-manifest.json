@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/sec-react-app/static/css/main.073c9b0a.css",
-    "main.js": "/sec-react-app/static/js/main.2bd8aedf.js",
-    "static/js/787.8e1df2cb.chunk.js": "/sec-react-app/static/js/787.8e1df2cb.chunk.js",
-    "static/media/logo.svg": "/sec-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/sec-react-app/static/css/main.31d6cfe0.css",
+    "main.js": "/sec-react-app/static/js/main.62ac4e66.js",
     "index.html": "/sec-react-app/index.html",
-    "main.073c9b0a.css.map": "/sec-react-app/static/css/main.073c9b0a.css.map",
-    "main.2bd8aedf.js.map": "/sec-react-app/static/js/main.2bd8aedf.js.map",
-    "787.8e1df2cb.chunk.js.map": "/sec-react-app/static/js/787.8e1df2cb.chunk.js.map"
+    "main.62ac4e66.js.map": "/sec-react-app/static/js/main.62ac4e66.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2bd8aedf.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.62ac4e66.js"
   ]
 }
